@@ -1,6 +1,8 @@
 ### Map Design and Tile Generation
 
 This is the link to my finished [Map Design](http://127.0.0.1:5500/index.html)
+
+
 The examined geographical area is mainly Seattle, Washington and the surrounding cities. Since, I lived in Seattle, I though it would be interesting to learn more about the city and things it has to offer. The data I chose was regarding Licensed Acute Care Hospitals, which was surprising to me because there was not that many in the area.
 
 #### Base Level
